@@ -1,6 +1,6 @@
-#include<iostream>
-#include<glad/glad.h>
-#include<GLFW/glfw3.h>
+#include <iostream>
+#include <glad/glad.h>
+#include <GLFW/glfw3.h>
 
 int main() {
 
@@ -18,3 +18,5 @@ int main() {
 	glfwTerminate();//end execution
 	return 0;
 }
+
+// test el main bas
